@@ -38,4 +38,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 
-Hi there! I'm **Ebarm Akram Hanna**, also known as **Ebram Essa**. I’m a Data Analyst at Mashreq Bank. I will share the knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Ebarm Akram Hanna**, also known as **Ebram Essa**. I’m a Data Analyst at Mashreq Bank. I will share my knowledge and make working with data an enjoyable and engaging experience!
